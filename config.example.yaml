@@ -1,0 +1,27 @@
+# darklens configuion
+
+:
+ region: [100, 100, 500, 500]
+ fps: 60
+ monitor: 0
+
+detection:
+ color_threshold: 15
+ min_area: 20
+ sensitivity: 0.8
+
+overlay:
+ enabled: true
+ crosshair: true
+ opacity: 0.8
+ color: "#FF0000"
+
+hotkeys:
+ toggle: "F1"
+ panic: "DELETE"
+ reload: "F5"
+
+output:
+ host: "127.0.0.1"
+ port: 5555
+ format: json
